@@ -20,5 +20,8 @@ For this project I trained and tuned the following models:
 |Default     |      0.45	|   	0.69|   	0.55 |
 
 
-The EDA notebook contains the details regarding exploration of the data as well as cleaning it.
+<b>XGBoost</b>
+
+
+<b>Neural Network</b>
 
