@@ -12,10 +12,10 @@ For this project I trained and tuned the following models:
 
 <b>Logistic Regression</b>:
 
-              precision    recall  f1-score   support
-
- Non-Default       0.90      0.76      0.82      9177
-     Default       0.45      0.69      0.55      2609
+             | precision  |  recall | f1-score |  support
+ ------------+------------+---------+----------+---------
+ Non-Default |      0.90  |    0.76 |     0.82 |    9177
+     Default |      0.45  |    0.69 |     0.55 |    2609
     
 
 
