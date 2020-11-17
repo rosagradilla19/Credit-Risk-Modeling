@@ -11,12 +11,11 @@ For this project I trained and tuned the following models:
 ### Results:
 
 <b>Logistic Regression</b>:
-
-             | precision  |  recall | f1-score |  support
- ------------+------------+---------+----------+---------
- Non-Default |      0.90  |    0.76 |     0.82 |    9177
-     Default |      0.45  |    0.69 |     0.55 |    2609
-    
+        
+|   	       | Precision 	| Recall	|  F1score |
+|:----------:|:----------:|:-------:|:--------:|
+|Non-Default |      0.90	|   	0.76|   	0.82 | 
+|Default     |      0.45	|   	0.69|   	0.55 |
 
 
 The EDA notebook contains the details regarding exploration of the data as well as cleaning it.
