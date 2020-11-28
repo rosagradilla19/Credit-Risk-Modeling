@@ -13,12 +13,21 @@ For this project I trained and tuned the following models:
 ### Results:
 
 <b>Logistic Regression</b>:
-        
-|   	       | Precision 	| Recall	|  F1score |
-|:----------:|:----------:|:-------:|:--------:|
-|Non-Default |      0.90	|   	0.76|   	0.82 | 
-|Default     |      0.45	|   	0.69|   	0.55 |
 
+Base model: 
+Accuracy = 0.819
+        
+|   	     | Precision 	| Recall	|  F1score   |
+|:----------:|:----------------:|:-------------:|:----------:|
+|Non-Default |      0.90	|   	0.76    |   	0.82 | 
+|Default     |      0.45	|   	0.69    |   	0.55 |
+
+Tuned model:
+Accuracy : 0.868
+|   	     | Precision 	| Recall	|  F1score   |
+|:----------:|:----------------:|:-------------:|:----------:|
+|Non-Default |      0.92	|   	0.87    |   	0.89 | 
+|Default     |      0.61	|   	0.73    |   	0.67 |
 
 <b>XGBoost</b>
 
