@@ -32,5 +32,5 @@ Accuracy : 0.868
 <b>XGBoost</b>
 
 
-<b>Neural Network</b>
+
 
