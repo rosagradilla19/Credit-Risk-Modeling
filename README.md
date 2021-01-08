@@ -38,4 +38,8 @@ Accuracy : 0.89
 |Non-Default |      0.95	|   	0.91    |   	0.93 | 
 |Default     |      0.72	|   	0.82    |   	0.77 |
 
+### Model Comparison
+
+Logistic Regression AUC Score: 0.76
+Gradient Boosted Tree AUC Score: 0.94
 
