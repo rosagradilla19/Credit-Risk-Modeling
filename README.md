@@ -31,6 +31,11 @@ Accuracy : 0.868
 
 <b>XGBoost</b>
 
-
+Tuned model:
+Accuracy : 0.89
+|   	     | Precision 	| Recall	|  F1score   |
+|:----------:|:----------------:|:-------------:|:----------:|
+|Non-Default |      0.95	|   	0.91    |   	0.93 | 
+|Default     |      0.72	|   	0.82    |   	0.77 |
 
 
