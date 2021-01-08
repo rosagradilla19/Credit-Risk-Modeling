@@ -8,7 +8,6 @@ For this project I trained and tuned the following models:
 
 - Logistic Regression Model
 - XGBoost
-- Neural Network
 
 ### Results:
 
@@ -41,5 +40,6 @@ Accuracy : 0.89
 ### Model Comparison
 
 Logistic Regression AUC Score: 0.76
+
 Gradient Boosted Tree AUC Score: 0.94
 
